@@ -12,4 +12,4 @@ There is a pure PHP code here, no javascript.
 [http://example1.techduinn.com](http://example1.techduinn.com)
 
 ## Screenshot
-![N](resources/google_api_screenshot.png)
+![N](google_api_screenshot.png)
